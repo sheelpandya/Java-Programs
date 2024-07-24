@@ -1,9 +1,9 @@
 abstract class Parent{
-    abstract void printNum(String s);
+    abstract void printNum();
 
-    void printWhole(String first){
+    void printWhole(){
         System.out.println("Header");
-        printNum(first);
+        printNum();
         System.out.println("Footer");
     }
 }

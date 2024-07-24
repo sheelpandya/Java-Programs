@@ -12,20 +12,20 @@ public class Main {
 
             switch(num){
                 case 1:{
-                    Child c = new Child();
-                    c.printWhole("First");
+                    Parent c = new Child1();
+                    c.printWhole();
                     break;
                 }case 2:{
-                    Child c = new Child();
-                    c.printWhole("Second");
+                    Parent c = new Child2();
+                    c.printWhole();
                     break;
                 }case 3:{
-                    Child c = new Child();
-                    c.printWhole("Third");
+                    Parent c = new Child3();
+                    c.printWhole();
                     break;
                 }case 4:{
-                    Child c = new Child();
-                    c.printWhole("Fourth");
+                    Parent c = new Child4();
+                    c.printWhole();
                     break;
                 }default:{
                     System.out.println("Invalid Number");
