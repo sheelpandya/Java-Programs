@@ -1,0 +1,10 @@
+Here the task was to print in the form of :
+Header
+<Text>
+Footer
+
+
+Text was chosen based on the numeric input taken from user and then print it in text form.
+Here we had to use the concept of abstract class for performing it.
+
+Parent class had abstract method printWhole which child classes had to override.
