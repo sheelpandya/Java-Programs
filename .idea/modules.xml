@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnonymousClass/AnonymousClass.iml" filepath="$PROJECT_DIR$/AnonymousClass/AnonymousClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Practice Programs.iml" filepath="$PROJECT_DIR$/Java Practice Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicate/Predicate.iml" filepath="$PROJECT_DIR$/Predicate/Predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Record/Record.iml" filepath="$PROJECT_DIR$/Record/Record.iml" />
     </modules>
   </component>
