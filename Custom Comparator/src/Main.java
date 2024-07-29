@@ -17,7 +17,11 @@ public class Main {
         l.add(e2);
         l.add(e3);
         l.add(e4);
-       var customComparator = Comparator.comparing(Employee::name).thenComparing(Employee::role);
+// To sort in ascending order where name is first priority and role is second priority
+        var customComparator = Comparator.comparing(Employee::name).thenComparing(Employee::role);
+
+        //To sort by reverse just add reverse() at the end
+//       var customComparator = Comparator.comparing(Employee::name).reversed().thenComparing(Employee::role);
 
         System.out.println(l);
         Collections.sort(l,customComparator);
