@@ -15,7 +15,7 @@ public class EmployeeManagement {
         int id,salary;
         String name,designation;
         Date doj;
-        System.out.println("Enter id: ");
+        System.out.println("Enter id (Number Format): ");
         id = sc.nextInt();
 
         //Checking for redundancy of id
