@@ -22,10 +22,9 @@ class Subclass implements inter{
 
 public class PrivateMethod
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {    
 
         Subclass child=new Subclass();
         child.fun1();
-
     }
 }

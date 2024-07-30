@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java Practice Programs.iml" filepath="$PROJECT_DIR$/Java Practice Programs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListProject/ListProject.iml" filepath="$PROJECT_DIR$/ListProject/ListProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Predicate/Predicate.iml" filepath="$PROJECT_DIR$/Predicate/Predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Record/Record.iml" filepath="$PROJECT_DIR$/Record/Record.iml" />
     </modules>
   </component>
