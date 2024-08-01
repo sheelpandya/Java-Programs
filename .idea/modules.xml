@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Predicate/Predicate.iml" filepath="$PROJECT_DIR$/Predicate/Predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Record/Record.iml" filepath="$PROJECT_DIR$/Record/Record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex/Regex.iml" filepath="$PROJECT_DIR$/Regex/Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/SealedClass/SealedClass.iml" filepath="$PROJECT_DIR$/SealedClass/SealedClass.iml" />
     </modules>
   </component>
